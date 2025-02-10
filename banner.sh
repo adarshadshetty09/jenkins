@@ -4,6 +4,6 @@
 
 echo "#######################################"
 echo "#                                     #"
-echo "#           Welcome to My Script      #"
+echo "#           Welcome to Jenkins      #"
 echo "#                                     #"
 echo "#######################################"
