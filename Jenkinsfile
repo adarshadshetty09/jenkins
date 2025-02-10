@@ -13,6 +13,7 @@ pipeline {
             steps {
                 script {
                     // Run the banner.sh script
+                    sh 'chmod +x banner.sh'
                     sh './banner.sh'
                 }
             }
