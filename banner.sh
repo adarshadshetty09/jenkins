@@ -8,4 +8,4 @@ echo "#           Welcome to Jenkins      #"
 echo "#                                     #"
 echo "#######################################"
 
-banner Welcome to Jenkins
+banner DevOps
